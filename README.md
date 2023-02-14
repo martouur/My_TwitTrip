@@ -1,6 +1,6 @@
 # Twit Trip - A Social Networking Platform
 
-##FullStack Final Project
+## FullStack Final Project
 
 Twit Trip is a social networking platform that allows users to post short messages and share their thoughts, opinions, and experiences about their trips with the world. The platform is designed to be simple, fast, and easy to use, making it the perfect choice for anyone looking to connect with others and share their thoughts and trip tips!
 
