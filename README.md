@@ -57,3 +57,4 @@ npm start
 http://localhost:3009
 ```
 
+# Let's explore the world with Twit Trip! 
